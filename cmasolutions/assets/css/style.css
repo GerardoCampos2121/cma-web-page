@@ -2241,7 +2241,8 @@ img {
 .header-style-2 .topbar .contact-info ul > li + li,
 .header-style-2 .topbar .social ul li,
 .header-style-2 .topbar .social ul > li + li:last-child {
-  border-color: #313131;
+  /*border-color: #313131;*/
+  border-color: #599c30;
 }
 
 .header-style-2 .topbar .social a {

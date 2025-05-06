@@ -2229,7 +2229,9 @@ img {
 	#header-style-2
 ---------------------------------------------*/
 .header-style-2 .topbar {
-  background-color: #020d26;
+  /*background-color: #020d26; */
+  background-color: #599c30;
+
 }
 
 .header-style-2 .topbar .contact-info ul li {

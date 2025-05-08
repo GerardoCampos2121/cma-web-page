@@ -2230,7 +2230,7 @@ img {
 ---------------------------------------------*/
 .header-style-2 .topbar {
   /*background-color: #020d26; */
-  background-color: #599c30;
+  background-color: #113158;
 
 }
 
@@ -2242,7 +2242,7 @@ img {
 .header-style-2 .topbar .social ul li,
 .header-style-2 .topbar .social ul > li + li:last-child {
   /*border-color: #313131;*/
-  border-color: #599c30;
+  border-color: #113158;
 }
 
 .header-style-2 .topbar .social a {
@@ -2391,7 +2391,7 @@ img {
   font-size: 12px;
   color: #000;
   opacity: 1;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(3, 9, 100, 0.5);
   display: none;
 }
 

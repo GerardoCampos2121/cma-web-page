@@ -57,10 +57,10 @@
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-1.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2><span>Tratamiento</span> <br>Aguas Residuales</h2>
+                                    <h2><span><!--Tratamiento--></span><!-- <br>Aguas Residuales--></h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p>Eliminación de contaminantes de las aguas residuales mediante procesos físicos, químicos y biológicos</p>
+                                    <p><!--Eliminación de contaminantes de las aguas residuales mediante procesos físicos, químicos y biológicos--></p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -75,10 +75,10 @@
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-2.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2><span>Servicios de</span> Consultoría Ambiental</h2>
+                                    <h2><span><!--Servicios de--></span><!-- Consultoría Ambiental--></h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p>Servicio especializado de asesoría a empresas y organizaciones en temas medioambientales</p>
+                                    <p><!--Servicio especializado de asesoría a empresas y organizaciones en temas medioambientales--></p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -93,10 +93,10 @@
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-3.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2><span>Transporte de</span> Desechos</h2>
+                                    <h2><span><!--Transporte de--></span><!-- Desechos--></h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p>Gestión integral de residuos, garantizando que los mismos sean manejados de manera segura.</p>
+                                    <p><!--Gestión integral de residuos, garantizando que los mismos sean manejados de manera segura.--></p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -217,8 +217,8 @@
                 <div class="row">
                     <div class="col col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">
                         <div class="section-title-s4">
-                            <span>Services</span>
-                            <h2>The Best Services <span>we provide</span></h2>
+                            <span>Servicios</span>
+                            <h2>Proveedores de Soluciones<span>Medioambientales</span></h2>
                         </div>                        
                     </div>
                 </div>
@@ -231,8 +231,8 @@
                                 </div>
                                 <div class="details">
                                     <i class="fi flaticon-solar-energy"></i>
-                                    <h3><a href="#">Power & Energy</a></h3>
-                                    <p>Recently cut out of an illustrated magine and housed indust</p>
+                                    <h3><a href="#">Energia Sustentable</a></h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -241,8 +241,8 @@
                                 </div>
                                 <div class="details">
                                     <i class="fi flaticon-plug"></i>
-                                    <h3><a href="#">Mechanical Works</a></h3>
-                                    <p>Recently cut out of an illustrated magine and housed indust</p>
+                                    <h3><a href="#">Mantenimiento</a></h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -251,8 +251,8 @@
                                 </div>
                                 <div class="details">
                                     <i class="fi flaticon-oil-barrel"></i>
-                                    <h3><a href="#">Petroleum Refinery</a></h3>
-                                    <p>Recently cut out of an illustrated magine and housed indust</p>
+                                    <h3><a href="#">Saneamiento</a></h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -261,8 +261,8 @@
                                 </div>
                                 <div class="details">
                                     <i class="fi flaticon-oil-1"></i>
-                                    <h3><a href="#">Oil and Gas</a></h3>
-                                    <p>Recently cut out of an illustrated magine and housed indust</p>
+                                    <h3><a href="#">Bombas</a></h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -271,8 +271,8 @@
                                 </div>
                                 <div class="details">
                                     <i class="fi flaticon-truck"></i>
-                                    <h3><a href="#">Logistics Services</a></h3>
-                                    <p>Recently cut out of an illustrated magine and housed indust</p>
+                                    <h3><a href="#">Logistica</a></h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -281,8 +281,8 @@
                                 </div>
                                 <div class="details">
                                     <i class="fi flaticon-factory"></i>
-                                    <h3><a href="#">General Industry</a></h3>
-                                    <p>Recently cut out of an illustrated magine and housed indust</p>
+                                    <h3><a href="#">Suministros</a></h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
                         </div>
@@ -301,47 +301,47 @@
                         <div class="left-col">
                             <div class="img-holder">
                                 <img src="assets/images/contact-man.png" alt>
-                                <div class="call-back">
+                                <!--div class="call-back">
                                     <h3>500+</h3><span>Call we <br>Back</span>
-                                </div>
+                                </div-->
                             </div>
                         </div>
                     </div>
                     <div class="col col-md-6">
                         <div class="contact-form">
                             <div class="section-title">
-                                <span>Contact us</span>
-                                <h2>You can contact us, <span>if you have any query</span></h2>
+                                <span>Contactanos</span>
+                                <h2>Puedes contactarnos <span>si tienes alguna consulta</span></h2>
                             </div>
                             <form method="post" class="contact-validation-active" id="contact-form-main">
                                 <div>
-                                    <input type="text" class="form-control" name="name" id="name" placeholder="Name*">
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Nombre*">
                                 </div>
                                 <div>
                                     <input type="email" class="form-control" name="email" id="email" placeholder="Email*">
                                 </div>
                                 <div>
-                                    <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone*">
+                                    <input type="text" class="form-control" name="phone" id="phone" placeholder="Telefono*">
                                 </div>
                                 <div>
                                     <select name="subject" class="form-control">
-                                        <option disabled="disabled" selected>Contact subject</option>
-                                        <option>Subject 1</option>
-                                        <option>Subject 2</option>
-                                        <option>Subject 3</option>
+                                        <option disabled="disabled" selected>Tipo de Consulta</option>
+                                        <option>Desechos</option>
+                                        <option>Agua Residuales</option>
+                                        <option>Agua Potable</option>
                                     </select>
                                 </div>
                                 <div class="fullwidth">
                                     <textarea class="form-control" name="note"  id="note" placeholder="Case Description..."></textarea>
                                 </div>
                                 <div class="submit-area">
-                                    <button type="submit" class="submit-btn">Submit Now</button>
+                                    <button type="submit" class="submit-btn">Enviar</button>
                                     <div id="loader">
                                         <i class="ti-reload"></i>
                                     </div>
                                 </div>
                                 <div class="clearfix error-handling-messages">
-                                    <div id="success">Thank you</div>
+                                    <div id="success">Gracias</div>
                                     <div id="error"> Error occurred while sending email. Please try again later. </div>
                                 </div>
                             </form>
@@ -376,8 +376,8 @@
                 <div class="row">
                     <div class="col col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">
                         <div class="section-title-s4">
-                            <span>Projects</span>
-                            <h2>See Latest Projects <span>For our client</span></h2>
+                            <span>Proyectos</span>
+                            <h2>Ultimos Proyectos <span> de nuestros clientes </span></h2>
                         </div>                        
                     </div>
                 </div>
@@ -483,10 +483,10 @@
                         <div class="inner-area">
                             <div class="section-title">
                                 <span>Why Choose us</span>
-                                <h2>37 years of experience, <span>in this industry</span></h2>
+                                <h2>10 años de experiencia, <span>en El Salvador</span></h2>
                             </div>
                             <div class="details">
-                                <p>Cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer ne and housed in a nice, gilded frame. It showed a lady fitted out with</p>
+                                <p>See Latest ProjectLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
                                 <div class="skills">
                                     <div class="skill">
                                         <h6>Production</h6>
@@ -533,8 +533,8 @@
                 <div class="row">
                     <div class="col col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">
                         <div class="section-title-s4">
-                            <span>Members</span>
-                            <h2>Our Dedicated Tem <span>For your service</span></h2>
+                            <span>Equipo</span>
+                            <h2>Profesionales <span>a su Servicio</span></h2>
                         </div>                        
                     </div>
                 </div>

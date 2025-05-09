@@ -57,10 +57,10 @@
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-1.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2><span><!--Tratamiento--></span><!-- <br>Aguas Residuales--></h2>
+                                    <h2><span>Tratamiento</span><br>Aguas Residuales</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p><!--Eliminación de contaminantes de las aguas residuales mediante procesos físicos, químicos y biológicos--></p>
+                                    <p>Eliminación de contaminantes de las aguas residuales mediante procesos físicos, químicos y biológicos.</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -75,10 +75,10 @@
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-2.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2><span><!--Servicios de--></span><!-- Consultoría Ambiental--></h2>
+                                    <h2><span>Servicios de </span>Consultoría Ambiental</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p><!--Servicio especializado de asesoría a empresas y organizaciones en temas medioambientales--></p>
+                                    <p>Servicio especializado de asesoría a empresas y organizaciones en temas medioambientales.</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -93,10 +93,10 @@
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-3.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2><span><!--Transporte de--></span><!-- Desechos--></h2>
+                                    <h2><span>Transporte de</span> Desechos</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p><!--Gestión integral de residuos, garantizando que los mismos sean manejados de manera segura.--></p>
+                                    <p>Gestión integral de residuos, garantizando que los mismos sean manejados de manera segura.</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">

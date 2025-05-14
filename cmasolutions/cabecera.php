@@ -1,6 +1,6 @@
         <!-- Start header -->
         <header id="header" class="site-header header-style-2">
-            <div class="topbar">
+            <!--<div class="topbar">
                 <div class="container">
                     <div class="row">
                         <div class="col col-md-9">
@@ -24,7 +24,7 @@
                         </div>
                     </div>
                 </div>
-            </div> <!-- end topbar -->
+            </div>--> <!-- end topbar -->
             <nav class="navigation navbar navbar-default">
                 <div class="container">
                     <div class="navbar-header">

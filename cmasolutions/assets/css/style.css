@@ -1473,6 +1473,7 @@ img {
   -o-border-radius: 0;
   -ms-border-radius: 0;
   border-radius: 0;
+
 }
 
 .site-header .navigation > .container {
@@ -1875,6 +1876,10 @@ img {
   /*** topbar ***/
   /*** navigation ***/
   /*** search-contact ***/
+  position: fixed;
+  z-index: 1000;
+  margin: 0 auto;
+  width: 100%;
 }
 
 .header-style-1 .container-fluid, .header-style-2 .container-fluid {
@@ -2017,7 +2022,7 @@ img {
 }
 
 .header-style-1 .navbar-brand, .header-style-2 .navbar-brand {
-  margin-top: 12px;
+  margin-top: 0px;
 }
 
 @media (max-width: 991px) {
@@ -2031,7 +2036,7 @@ img {
 }
 
 .header-style-1 .navbar-brand img, .header-style-2 .navbar-brand img {
-  max-width: 170px;
+  max-width: 250px;
 }
 
 @media screen and (min-width: 992px) {
@@ -2231,6 +2236,7 @@ img {
 .header-style-2 .topbar {
   /*background-color: #020d26; */
   background-color: #113158; 
+  position: fixed;
   
 
 }
@@ -2275,17 +2281,18 @@ img {
 --------------------------------------------------------------*/
 .hero-slider {
   width: 100%;
-  height: 700px;
+  height: 500px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   position: relative;
   z-index: 0;
+  margin-top: 100px;
 }
 
 @media (max-width: 991px) {
   .hero-slider {
-    height: 600px;
+    height: 500px;
   }
 }
 
@@ -2302,7 +2309,7 @@ img {
 
 .hero-slider .swiper-container {
   width: 100%;
-  height: 100%;
+  height: 80%;
   position: absolute;
   left: 0;
   top: 0;
@@ -3031,7 +3038,7 @@ img {
 @media (max-width: 991px) {
   .features-section .feature-grids .grid, .features-section-s2 .feature-grids .grid {
     width: 50%;
-    padding: 40px 25px;
+    padding: 0px 5px;
   }
 }
 

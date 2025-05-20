@@ -109,7 +109,7 @@
 
                     <div class="search-contact">
                         <div class="header-search-form-wrapper">
-                            <button class="search-toggle-btn"><i class="ti-search"></i></button>
+                            <!--button class="search-toggle-btn"><i class="ti-search"></i></button>
                             <div class="header-search-form">
                                 <form>
                                     <div>
@@ -117,7 +117,7 @@
                                         <button type="submit"><i class="ti-search"></i></button>
                                     </div>
                                 </form>
-                            </div>
+                            </div-->
                         </div>
                         <div class="contact-btn">
                             <a href="#" class="theme-btn">Escríbenos</a>

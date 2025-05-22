@@ -353,7 +353,7 @@
         <!-- end contact-section -->
 
 
-        <!-- start cta-section-s2 -->
+        <!-- start cta-section-s2
         <section class="cta-section-s2">
             <div class="container">
                 <div class="row">
@@ -365,12 +365,12 @@
                         </div>
                     </div>
                 </div>
-            </div> <!-- end container -->
-        </section>
+            </div>
+        </section>-->
         <!-- end cta-section-s2 -->
 
 
-        <!-- start latest-projects-section-s2 -->
+        <!-- start latest-projects-section-s2
         <section class="latest-projects-section-s2 section-padding">
             <div class="container">
                 <div class="row">
@@ -471,11 +471,11 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- end latest-projects-section-s2 -->
 
 
-        <!-- start why-choose-us-section -->
+        <!-- start why-choose-us-section
         <section class="why-choose-us-section section-padding p-t-0">
             <div class="container">
                 <div class="row">
@@ -523,11 +523,11 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         <!-- end why-choose-us-section -->
 
 
-        <!-- start team-section -->
+        <!-- start team-section
         <section class="team-section section-padding p-t-0">
             <div class="container">
                 <div class="row">
@@ -620,12 +620,12 @@
                         </div>
                     </div>
                 </div>
-            </div> <!-- end container -->
-        </section>
+            </div>
+        </section> -->
         <!-- end team-section -->
 
         
-        <!-- start partners-section -->
+        <!-- start partners-section
         <section class="partners-section">
             <h2 class="hidden">Partners</h2>
             <div class="container">
@@ -651,12 +651,12 @@
                     </div>
                 </div>
                 <div class="separator"></div>
-            </div> <!-- end container -->
-        </section>
+            </div>
+        </section> -->
         <!-- end partners-section -->
 
 
-        <!-- start testimonials-section -->
+        <!-- start testimonials-section
         <section class="testimonials-section section-padding">
             <div class="container">
                 <div class="row">
@@ -689,12 +689,12 @@
                         </div>
                     </div>
                 </div>
-            </div> <!-- end container -->
-        </section>
+            </div>
+        </section> -->
         <!-- end testimonials-section -->
 
 
-        <!-- start blog-section -->
+        <!-- start blog-section
         <section class="blog-section section-padding">
             <div class="container">
                 <div class="row">
@@ -754,8 +754,8 @@
                         </div>
                     </div>
                 </div>
-            </div> <!-- end container -->
-        </section>
+            </div> 
+        </section>-->
         <!-- end blog-section -->
 
 

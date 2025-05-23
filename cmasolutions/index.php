@@ -762,7 +762,7 @@
         <!-- start site-footer -->
         <footer class="site-footer">
             <div class="upper-footer">
-                <div class="container">
+                <!--<div class="container">
                     <div class="row">
                         <div class="col col-lg-3 col-md-3 col-sm-6">
                             <div class="widget about-widget">
@@ -829,12 +829,12 @@
                             </div>
                         </div>
                     </div>
-                </div> <!-- end container -->
+                </div> end container -->
             </div>
             <div class="lower-footer">
                 <div class="container">
                     <div class="row">
-                        <div class="separator"></div>
+                        <!--<div class="separator"></div>
                         <div class="col col-xs-12">
                             <p class="copyright">Copyright &copy; 2019 Nictorys. All rights reserved.</p>
                             <div class="short-links">
@@ -844,7 +844,7 @@
                                     <li><a href="#">Cookies</a></li>
                                 </ul>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>

@@ -189,19 +189,19 @@
                                 <h2>Consultoría, Medio Ambiente y Soluciones S.A. de C.V. <span>Un Aliado con el medioambiente</span></h2>
                             </div>
                             <div class="details">
-                                <p>A collection of textile <strong>samples lay spread out on the table</strong> Samsa was a travelling salesman  and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat</p>
-                                <ul>
+                                <p style="font-size:18px;"><strong>Somos una empresa que brinda soluciones integrales en diferentes rubros relacionados a la sostenibilidad ambiental, con el fin de minimizar los impactos ambientales negativos, adaptándonos a las  necesidades de los clientes.<strong></p>
+                                <!--ul>
                                     <li><i class="ti-arrow-circle-right"></i> Ftted out with a fur hat and fur boa </li>
                                     <li><i class="ti-arrow-circle-right"></i> It showed a lady fitted out with a fur hat and fur boa who sat </li>
                                     <li><i class="ti-arrow-circle-right"></i> Samsa was a travelling salesman  and above it there hung  </li>
                                     <li><i class="ti-arrow-circle-right"></i> Muff that covered the whole of her </li>
-                                </ul>
+                                </ul-->
                             </div>
                             <div class="ceo-quote">
-                                <blockquote>
+                                <!--blockquote>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas explicabo nemo ab iste laboriosam deserunt ipsa eius dolores veritatis.
                                     <span>- Adam ( CEO of the company )</span>
-                                </blockquote>
+                                </blockquote-->
                             </div>
                         </div>
                     </div>

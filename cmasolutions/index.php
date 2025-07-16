@@ -189,7 +189,7 @@
                                 <h2>Consultoría, Medio Ambiente y Soluciones S.A. de C.V. <span>Un Aliado con el medioambiente</span></h2>
                             </div>
                             <div class="details">
-                                <p style="font-size:18px;"><strong>Somos una empresa que brinda soluciones integrales en diferentes rubros relacionados a la sostenibilidad ambiental, con el fin de minimizar los impactos ambientales negativos, adaptándonos a las  necesidades de los clientes.<strong></p>
+                                <p style="font-size:18px; color: black"><strong>Somos una empresa que brinda soluciones integrales en diferentes rubros relacionados a la sostenibilidad ambiental, con el fin de minimizar los impactos ambientales negativos, adaptándonos a las  necesidades de los clientes.<strong></p>
                                 <!--ul>
                                     <li><i class="ti-arrow-circle-right"></i> Ftted out with a fur hat and fur boa </li>
                                     <li><i class="ti-arrow-circle-right"></i> It showed a lady fitted out with a fur hat and fur boa who sat </li>

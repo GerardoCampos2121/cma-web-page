@@ -175,26 +175,17 @@
                 </section>
                 <!-- end about-us-section-s2 -->
 
-
-
-        <!-- start services-section-s2 -->
-        <section class="services-section-s2 section-padding">
+        <!-- start features-section-s2 -->
+        <section class="features-section-s2">
             <div class="container">
                 <div class="row">
-                    <div class="col col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">
-                        <div class="section-title-s4">
-                            <span>Servicios</span>
-                            <h2>SOLUCIONES AMBIENTALES</h2>
-                        </div>                        
-                    </div>
-                </div>
-                <div class="row" style="background-color:white; padding-bottom:30px">
-                    <div class="col col-xs-4">
-                        <div class="img-holder" style="margin-top:20px">
-                            <img src="assets/images/features/01.png" width="35%">
-                        </div>
-                    </div>
-                    <div class="col col-xs-8"><h3>Consultorìa Ambiental</h3>
+                    <div class="col col-xs-12">
+                        <div class="feature-grids clearfix">
+                            <div class="grid">
+                                <div class="img-holder">
+                                    <img src="assets/images/features/01.png" alt>
+                                </div>
+                                <h3>Consultorìa Ambiental</h3>
 
                                 <p>Brindamos asesoría y consultoría sobre gestión ambiental en la industria, incluyendo:</p>
                                 </br>
@@ -206,30 +197,23 @@
                                     <li>Ingreso de Informes de Operación Anual</li>
                                     <li>Programas de Manejo de Residuos y Almacenamiento de Sustancias Químicas</li>
                                     <li>Capacitaciones y Charlas en temáticas ambientales</li>
-                                </ul></div>    
-                </div>
-
-                <div class="row">
-                    <div class="col col-xs-4">
-                        <div class="img-holder" style="margin-top:20px; padding-bottom:0px">
-                            <img src="assets/images/features/02.png" width="35%">
-                        </div>
-                    </div>
-                    <div class="col col-xs-8"><h3>Transporte de Desechos</h3>
+                                </ul>
+                            </div>
+                            <div class="grid">
+                                <div class="img-holder">
+                                    <img src="assets/images/features/02.png" alt>
+                                </div>
+                                <h3>Transporte de Desechos</h3>
 
                                 <p>Contamos con permiso para el transporte de desechos especiales por parte del
                                    Ministerio de Medio Ambiente. Se realiza logística y transporte desde cualquier parte
                                    del país </p>
-                            </div>    
-                </div>
-
-                <div class="row" style="background-color:white;margin-top:20px; padding-bottom:20px">
-                    <div class="col col-xs-4">
-                        <div class="img-holder" style="margin-top:20px">
-                            <img src="assets/images/features/03.png" width="35%">
-                        </div>
-                    </div>
-                    <div class="col col-xs-8"><h3>Tratamiento de Aguas Residuales</h3>
+                            </div>
+                            <div class="grid">
+                                <div class="img-holder">
+                                    <img src="assets/images/features/03.png" alt>
+                                </div>
+                                <h3>Tratamiento de Aguas Residuales</h3>
 
                                 <p>Para el tratamiento de aguas residuales especiales y ordinarias, ofrecemos los
                                    siguientes servicios:</p>
@@ -244,18 +228,15 @@
                                     <li>Suministro de equipos e instrumentos de medición de parámetros</li>
                                     <li>Químicos y bacterias, con asesoría para su uso y dosificación</li>
                                     <li>Mantenimientos Electro – Mecánicos de Sistemas de Tratamiento de Aguas</li>
-                                </ul></div>    
-                </div>
+                                </ul>
+                            </div>
+                            <div class="grid">
+                                <div class="img-holder">
+                                    <img src="assets/images/features/04.png" alt>
+                                </div>
+                                <h3>Tratamiento de Agua Potable </h3>
 
-                <div class="row" style="margin-top:20px; ">
-                    <div class="col col-xs-4">
-                        <div class="img-holder" style="margin-top:20px">
-                            <img src="assets/images/features/03.png" width="35%">
-                        </div>
-                    </div>
-                    <div class="col col-xs-8"><h3>Tratamiento de Agua Potable</h3>
-
-                                 <p>Ponemos a su disposición los siguientes servicios para el tratamiento de agua
+                                <p>Ponemos a su disposición los siguientes servicios para el tratamiento de agua
                                    potable:</p>
                                    </br>
 
@@ -264,25 +245,43 @@
                                         inversa, UV, entre otros)</il>
                                     <li>Suministro de equipos e instrumentos de medición de parámetros</li>
                                     <li>Mantenimientos Electro – Mecánicos de equipos</li>
-                                </ul></div>    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+               </div>
+            </div> <!-- end container -->
+        </section>
+        <!-- end features-section-s2 -->
+
+
+        <!-- start services-section-s2 -->
+        <section class="services-section-s2 section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">
+                        <div class="section-title-s4">
+                            <span>Servicios</span>
+                            <h2>SOLUCIONES AMBIENTALES</h2>
+                        </div>                        
+                    </div>
                 </div>
-
-
-
-                <!--div class="row">
+                <div class="row">
                     <div class="col col-xs-12">
                         <div class="service-grids clearfix">
                             <div class="grid">
                                 <div class="img-holder">
                                     <img src="assets/images/services/img-1.jpg" alt>
                                 </div>
-                                <div class="details1" style="display: inline-block;">
+                                <div class="details">
                                     <i class="fi flaticon-solar-energy"></i>
                                     <h3><a href="#">Energia Sustentable</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
-                            <!--div class="grid">
+                            <div class="grid">
                                 <div class="img-holder">
                                     <img src="assets/images/services/img-2.jpg" alt>
                                 </div>
@@ -331,7 +330,7 @@
                                     <h3><a href="#">Suministros</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
-                            </div-->
+                            </div>
                         </div>
                     </div>
                 </div>

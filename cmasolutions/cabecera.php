@@ -40,7 +40,7 @@
                         <button class="close-navbar"><i class="ti-close"></i></button>
                         <ul class="nav navbar-nav">
                             <li class="menu-item-has-children">
-                                <a href="index.html">Inicio</a>
+                                <a href="index.php">Inicio</a>
                                 <!--ul class="sub-menu">
                                     <li><a href="index.html">Home default</a></li>
                                     <li><a href="index-2.html">Home style 2</a></li>
@@ -69,10 +69,10 @@
                             <li class="menu-item-has-children">
                                 <a href="#">Servicios</a>
                                 <ul class="sub-menu">
-                                    <li><a href="services.html">Consultoria</a></li>
-                                    <li><a href="services-s2.html">Aguas Residuales</a></li>
-                                    <li><a href="service-single.html">Agua Potable</a></li>
-                                    <li><a href="mechanical-works.html">Transporte Desechos</a></li>
+                                    <li><a href="#">Consultoria</a></li>
+                                    <li><a href="#">Aguas Residuales</a></li>
+                                    <li><a href="#">Agua Potable</a></li>
+                                    <li><a href="#">Transporte Desechos</a></li>
                                     <!--li><a href="petroleum-refinery.html">Petroleum Refinery</a></li>
                                     <li><a href="oil-gas-industry.html">Oil & Gas Industry</a></li>
                                     <li><a href="logistics-services.html">Logistics Services</a></li>

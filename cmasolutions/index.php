@@ -48,7 +48,6 @@
         
 <?php include_once("cabecera.php")?>
 
-
         <!-- start of hero -->
         <section class="hero-slider hero-style-2">
             <div class="swiper-container">
@@ -117,6 +116,46 @@
         </section>
         <!-- end of hero slider -->
 
+        <!-- start about-us-section-s2 -->
+                <section class="about-us-section-s2 section-padding p-t-0">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col col-md-5">
+                                <div class="img-holder about-image">
+                                    <img src="assets/images/about-s2.jpg" alt>
+                                </div>
+                            </div>
+                            <div class="col col-md-7">
+                                <div class="about-details">
+                                    <div class="section-title">
+                                        <span>Acerca de la Empresa</span>
+                                        <h2>Consultoría, Medio Ambiente y Soluciones S.A. de C.V. <span>Un Aliado con el medioambiente</span></h2>
+                                    </div>
+                                    <div class="details">
+                                        <p style="font-size:18px; color: black">
+                                            <strong>Somos una empresa que brinda soluciones integrales relacionadas a la sostenibilidad
+                                                    ambiental, para las diferentes actividades económicas desarrolladas en nuestro país,
+                                                    con el fin de prevenir, minimizar, mitigar y/o atenuar los posibles impactos ambientales
+                                                    negativos que los diversos sectores industriales y sus actividades, puedan generar,
+                                                    adaptándonos a las necesidades de los clientes, para convertirnos en sus aliados
+                                                    estratégicos, proveedores de servicios ambientales con atención oportuna y
+                                                    especializada.
+                                                    <strong></p>
+
+                                    </div>
+                                    <div class="ceo-quote">
+                                        <!--blockquote>
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas explicabo nemo ab iste laboriosam deserunt ipsa eius dolores veritatis.
+                                            <span>- Adam ( CEO of the company )</span>
+                                        </blockquote-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- end container -->
+                </section>
+                <!-- end about-us-section-s2 -->
+
         <!-- start features-section-s2 -->
         <section class="features-section-s2">
             <div class="container">
@@ -127,11 +166,18 @@
                                 <div class="img-holder">
                                     <img src="assets/images/features/01.png" alt>
                                 </div>
-                                <h3>Consultoria Ambiental</h3>
-                                <ul><li>Modificación de Permisos Ambientales</li>
-                                    <li>Ingreso de informe de operaciones anual</il>
-                                    <li>Permiso Ambiental</li>
-                                    <li>Asesoría y consultoría</li>
+                                <h3>Consultorìa Ambiental</h3>
+
+                                <p>Brindamos asesoría y consultoría sobre gestión ambiental en la industria, incluyendo:</p>
+                                </br>
+
+                                <ul><li>Elaboración de Estudios de Impacto Ambiental</li>
+                                    <li>Trámites para la obtención de Permisos Ambientales y Modificaciones a
+                                        Permisos Ambientales</il>
+                                    <li>Trámites para obtención de Permisos Ambientales a transporte de carga</li>
+                                    <li>Ingreso de Informes de Operación Anual</li>
+                                    <li>Programas de Manejo de Residuos y Almacenamiento de Sustancias Químicas</li>
+                                    <li>Capacitaciones y Charlas en temáticas ambientales</li>
                                 </ul>
                             </div>
                             <div class="grid">
@@ -139,18 +185,30 @@
                                     <img src="assets/images/features/02.png" alt>
                                 </div>
                                 <h3>Transporte de Desechos</h3>
-                                <p>Contamos con permiso para el transporte de desechos especiales del Ministerio de Medio Ambiente . </p>
+
+                                <p>Contamos con permiso para el transporte de desechos especiales por parte del
+                                   Ministerio de Medio Ambiente. Se realiza logística y transporte desde cualquier parte
+                                   del país </p>
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
                                     <img src="assets/images/features/03.png" alt>
                                 </div>
                                 <h3>Tratamiento de Aguas Residuales</h3>
-                                <ul><li>Equipos</li>
-                                    <li>Bombas, Aireadores, etc.</il>
-                                    <li>Mantenimiento</li>
-                                    <li>Operacion</li>
-                                    <li>Quimicos y mas</li>
+
+                                <p>Para el tratamiento de aguas residuales especiales y ordinarias, ofrecemos los
+                                   siguientes servicios:</p>
+                                   </br>
+
+                                <ul><li>Asesoría para la puesta en marcha y eficiencia de sistemas de tratamiento
+                                        de aguas residuales</li>
+                                    <li>Diseño de Sistemas de Tratamiento de Aguas Residuales</il>
+                                    <li>Servicio de operación de sistemas de tratamiento de aguas residuales</li>
+                                    <li>Suministro e instalación de equipos y accesorios (Bombas, aireadores, entre
+                                        otros)</li>
+                                    <li>Suministro de equipos e instrumentos de medición de parámetros</li>
+                                    <li>Químicos y bacterias, con asesoría para su uso y dosificación</li>
+                                    <li>Mantenimientos Electro – Mecánicos de Sistemas de Tratamiento de Aguas</li>
                                 </ul>
                             </div>
                             <div class="grid">
@@ -158,57 +216,26 @@
                                     <img src="assets/images/features/04.png" alt>
                                 </div>
                                 <h3>Tratamiento de Agua Potable </h3>
-                                <ul><li>Equipos</li>
-                                    <li>Equipos y Mantenimiento</il>
-                                    <li>Bombas</li>
-                                    <li>Osmosis</li>
-                                    <li>UV, Filtros y mas</li>
+
+                                <p>Ponemos a su disposición los siguientes servicios para el tratamiento de agua
+                                   potable:</p>
+                                   </br>
+
+                                <ul><li>Servicio de limpieza de tanques y cisternas</li>
+                                    <li>Suministro e instalación de equipos y accesorios (Bombas, filtros, ósmosis
+                                        inversa, UV, entre otros)</il>
+                                    <li>Suministro de equipos e instrumentos de medición de parámetros</li>
+                                    <li>Mantenimientos Electro – Mecánicos de equipos</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                </div>
+
+
+               </div>
             </div> <!-- end container -->
         </section>
         <!-- end features-section-s2 -->
-
-        
-        <!-- start about-us-section-s2 -->
-        <section class="about-us-section-s2 section-padding p-t-0">
-            <div class="container">
-                <div class="row">
-                    <div class="col col-md-5">
-                        <div class="img-holder about-image">
-                            <img src="assets/images/about-s2.jpg" alt>
-                        </div>
-                    </div>
-                    <div class="col col-md-7">
-                        <div class="about-details">
-                            <div class="section-title">
-                                <span>Acerca de la Empresa</span>
-                                <h2>Consultoría, Medio Ambiente y Soluciones S.A. de C.V. <span>Un Aliado con el medioambiente</span></h2>
-                            </div>
-                            <div class="details">
-                                <p style="font-size:18px; color: black"><strong>Somos una empresa que brinda soluciones integrales en diferentes rubros relacionados a la sostenibilidad ambiental, con el fin de minimizar los impactos ambientales negativos, adaptándonos a las  necesidades de los clientes.<strong></p>
-                                <!--ul>
-                                    <li><i class="ti-arrow-circle-right"></i> Ftted out with a fur hat and fur boa </li>
-                                    <li><i class="ti-arrow-circle-right"></i> It showed a lady fitted out with a fur hat and fur boa who sat </li>
-                                    <li><i class="ti-arrow-circle-right"></i> Samsa was a travelling salesman  and above it there hung  </li>
-                                    <li><i class="ti-arrow-circle-right"></i> Muff that covered the whole of her </li>
-                                </ul-->
-                            </div>
-                            <div class="ceo-quote">
-                                <!--blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas explicabo nemo ab iste laboriosam deserunt ipsa eius dolores veritatis.
-                                    <span>- Adam ( CEO of the company )</span>
-                                </blockquote-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- end container -->
-        </section>
-        <!-- end about-us-section-s2 -->
 
 
         <!-- start services-section-s2 -->
@@ -218,7 +245,7 @@
                     <div class="col col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">
                         <div class="section-title-s4">
                             <span>Servicios</span>
-                            <h2>Proveedores de Soluciones<span>Medioambientales</span></h2>
+                            <h2>SOLUCIONES AMBIENTALES</h2>
                         </div>                        
                     </div>
                 </div>

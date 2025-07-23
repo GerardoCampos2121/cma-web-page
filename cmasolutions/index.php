@@ -106,6 +106,25 @@
                             </div>
                         </div> <!-- end slide-inner --> 
                     </div><!-- end swiper-slide --> 
+
+                    <div class="swiper-slide">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-3.jpg">
+                            <div class="container">
+                                <div data-swiper-parallax="300" class="slide-title">
+                                    <h2><span>Tratamiento de</span> Agua Potable</h2>
+                                </div>
+                                <div data-swiper-parallax="400" class="slide-text">
+                                    <p>“Asesoría en limpieza, suministro de equipos y mantenimientos de sistemas de tratamiento de agua potable</p>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div data-swiper-parallax="500" class="slide-btns">
+                                    <!--a href="#" class="theme-btn">Our industry</a> 
+                                    <a href="#" class="theme-btn-s2">Contact us</a--> 
+                                </div>
+                            </div>
+                        </div> <!-- end slide-inner --> 
+                    </div><!-- end swiper-slide --> 
+
                 </div>
                 <!-- end swiper-wrapper -->
 

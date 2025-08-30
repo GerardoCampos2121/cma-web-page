@@ -188,38 +188,50 @@
                         </div>                        
                     </div>
                 </div>
-                <div class="row" style="background-color:white; padding-bottom:30px">
-                    <div class="col col-xs-4">
-                        <div class="img-holder" style="margin-top:20px">
-                            <img src="assets/images/features/01.png" width="35%">
+                <div class="row well" style="background-color:white;">
+                    <div class="col-xs-12 col-md-4 center-block">
+                        <div class="img-rounded" style="margin-top:20px;">
+                            <center><img  style="padding:50px 0 0 0" src="assets/images/features/01.jpg" width="80%"></center>
                         </div>
                     </div>
-                    <div class="col col-xs-8"><h3>Consultorìa Ambiental</h3>
+                    <div class="col-xs-12 col-md-8" style="padding:50px;"><h3>Consultorìa Ambiental</h3>
 
                                 <p>Brindamos asesoría y consultoría sobre gestión ambiental en la industria, incluyendo:</p>
                                 </br>
 
-                                <ul><li>Elaboración de Estudios de Impacto Ambiental</li>
-                                    <li>Trámites para la obtención de Permisos Ambientales y Modificaciones a
-                                        Permisos Ambientales</il>
-                                    <li>Trámites para obtención de Permisos Ambientales a transporte de carga</li>
-                                    <li>Ingreso de Informes de Operación Anual</li>
-                                    <li>Programas de Manejo de Residuos y Almacenamiento de Sustancias Químicas</li>
-                                    <li>Capacitaciones y Charlas en temáticas ambientales</li>
-                                </ul></div>    
+                                <span class="badge">&bull;</span> Elaboración de Estudios de Impacto Ambiental<br>
+                                <span class="badge">&bull;</span> Trámites para la obtención de Permisos Ambientales y Modificaciones <br>
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Permisos Ambientales<br>
+                                <span class="badge">&bull;</span> Trámites para obtención de Permisos Ambientales a transporte de carga<br>
+                                <span class="badge">&bull;</span> Ingreso de Informes de Operación Anual<br>
+                                <span class="badge">&bull;</span> Programas de Manejo de Residuos y Almacenamiento de Sustancias Químicas<br>
+                                <span class="badge">&bull;</span> Capacitaciones y Charlas en temáticas ambientales<br>
+                                </div>    
                 </div>
 
-                <div class="row">
-                    <div class="col col-xs-4">
-                        <div class="img-holder" style="margin-top:20px; padding-bottom:0px">
-                            <img src="assets/images/features/02.png" width="35%">
+                <div class="row well">
+                    <div class="col-xs-12 col-md-4 ">
+                        <div class="img-rounded" style="margin-top:20px;">
+                           <center> <img style="padding:50px 0 0 0" src="assets/images/features/02.png" width="80%"></center>
                         </div>
                     </div>
-                    <div class="col col-xs-8"><h3>Transporte de Desechos</h3>
+                    <div class="col-xs-12 col-md-8" style="padding:50px;"><h3>Transporte de Desechos</h3>
 
-                                <p>Contamos con permiso para el transporte de desechos especiales por parte del
-                                   Ministerio de Medio Ambiente. Se realiza logística y transporte desde cualquier parte
-                                   del país </p>
+                                <p>Contamos con autorización oficial del <u> Ministerio de Medio Ambiente </u> para el transporte seguro y responsable de desechos especiales. <br><br>
+                            
+                            Ofreciendo calidad en nuestros servicios:<br><br>
+                        <span class="badge">&bull;</span>   <u>Permiso Oficial:</u> Contamos con la autorización del Ministerio de Medio Ambiente para el transporte de desechos especiales.
+<br>
+<span class="badge">&bull;</span>   <u>Cobertura Nacional:</u> Realizamos recolección y traslado desde cualquier parte del país.
+<br>
+<span class="badge">&bull;</span>   <u>Seguridad Garantizada:</u> Procesos certificados que aseguran un manejo responsable y seguro.
+<br>
+<span class="badge">&bull;</span>   <u>Compromiso Ambiental:</u> Operamos bajo estrictos lineamientos para proteger el entorno.
+<br>
+<span class="badge">&bull;</span>   <u>Logística Integral:</u> Coordinamos cada detalle para que su empresa cumpla con la normativa sin complicaciones.
+                        
+                        
+                        </p>
                             </div>    
                 </div>
 

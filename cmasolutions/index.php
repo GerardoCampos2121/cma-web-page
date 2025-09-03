@@ -235,13 +235,13 @@
                             </div>    
                 </div>
 
-                <div class="row" style="background-color:white;margin-top:20px; padding-bottom:20px">
-                    <div class="col col-xs-4">
+                <div class="row well" style="background-color:white;margin-top:20px; padding-bottom:20px">
+                    <div class="col-xs-12 col-md-4">
                         <div class="img-holder" style="margin-top:20px">
-                            <img src="assets/images/features/03.png" width="35%">
+                            <img style="padding:50px 0px 0 30px; margin-bottom:50px" src="assets/images/features/04.png" width="85%">
                         </div>
                     </div>
-                    <div class="col col-xs-8"><h3>Tratamiento de Aguas Residuales</h3>
+                    <div class="col-xs-12 col-md-8" style="padding:50px;"><h3>Tratamiento de Aguas Residuales</h3>
 
                                 <p>Para el tratamiento de aguas residuales especiales y ordinarias, ofrecemos los
                                    siguientes servicios:</p>
@@ -259,10 +259,10 @@
                                 </ul></div>    
                 </div>
 
-                <div class="row" style="margin-top:20px; ">
-                    <div class="col col-xs-4">
-                        <div class="img-holder" style="margin-top:20px">
-                            <img src="assets/images/features/03.png" width="35%">
+                <div class="row well" style="margin-top:20px; ">
+                    <div class="col-xs-12 col-md-4 center-block">
+                        <div class="img-holder" style="margin-top:0px">
+                            <img style="padding:50px 0 0 0;  margin-bottom:50px" src="assets/images/features/03.png" width="80%">
                         </div>
                     </div>
                     <div class="col col-xs-8"><h3>Tratamiento de Agua Potable</h3>

@@ -232,7 +232,7 @@
                 <div class="row well" style="background-color:white;margin-top:20px; padding-bottom:20px">
                     <div class="col-xs-12 col-md-4">
                         <div class="img-holder" style="margin-top:20px">
-                            <img style="padding:50px 0px 0 30px; margin-bottom:50px" src="assets/images/features/04.png" width="85%">
+                            <img style="padding:50px 0px 0 30px; margin-bottom:50px" src="assets/images/features/servicio4.png" width="85%">
                         </div>
                     </div>
                     <div class="col-xs-12 col-md-8" style="padding:50px;font-size:18px"><h2>Tratamiento de Aguas Residuales</h2>

@@ -191,10 +191,11 @@
                 <div class="row well" style="background-color:white;">
                     <div class="col-xs-12 col-md-4 center-block">
                         <div class="img-rounded" style="margin-top:10px;">
-                            <center><img  style="padding:40px 0 40px 0" src="assets/images/features/servicio1.png" width="80%"></center>
+                            <center><img  style="padding:40px 0 0px 0" src="assets/images/features/01_a.png" width="85%"></center>
+                            <center><img  style="padding:10px 0 40px 0" src="assets/images/features/01_b.png" width="85%"></center>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-md-8" style="padding:30px;font-size:18px"><h2>Consultoría Ambiental</h2>
+                    <div class="col-xs-12 col-md-8" style="padding:70px;font-size:18px; text-align:justify"><h2>Consultoría Ambiental</h2>
 
                                 <p>Brindamos asesoría y consultoría sobre gestión ambiental en la industria, incluyendo:</p>
                                 <ul> 
@@ -231,11 +232,12 @@
 
                 <div class="row well" style="background-color:white;margin-top:20px; padding-bottom:20px">
                     <div class="col-xs-12 col-md-4">
-                        <div class="img-holder" style="margin-top:20px">
-                            <img style="padding:50px 0px 0 30px; margin-bottom:50px" src="assets/images/features/servicio4.png" width="85%">
+                        <div class="img-rounded" style="margin-top:10px;">
+                            <center><img  style="padding:40px 0 0px 0" src="assets/images/features/03_a.png" width="85%"></center>
+                            <center><img  style="padding:10px 0 40px 0" src="assets/images/features/03_b.png" width="85%"></center>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-md-8" style="padding:50px;font-size:18px"><h2>Tratamiento de Aguas Residuales</h2>
+                    <div class="col-xs-12 col-md-8" style="padding:55px;font-size:18px"><h2>Tratamiento de Aguas Residuales</h2>
 
                                 <p>Para el tratamiento de aguas residuales especiales y ordinarias, ofrecemos los
                                    siguientes servicios:</p>
@@ -256,10 +258,10 @@
                 <div class="row well" style="margin-top:20px; ">
                     <div class="col-xs-12 col-md-4 center-block">
                         <div class="img-holder" style="margin-top:0px">
-                            <img style="padding:30px 0 0 0;  margin-bottom:50px" src="assets/images/features/03.png" width="80%">
+                            <img style="padding:40px 0 0 0;  margin-bottom:50px" src="assets/images/features/03.png" width="80%">
                         </div>
                     </div>
-                    <div class="col col-xs-8" style="font-size:18px"><h2>Tratamiento de Agua Potable</h2>
+                    <div class="col col-xs-8" style="font-size:18px; padding-top:70px"><h2>Tratamiento de Agua Potable</h2>
 
                                  <p>Ponemos a su disposición los siguientes servicios para el tratamiento de agua
                                    potable:</p>

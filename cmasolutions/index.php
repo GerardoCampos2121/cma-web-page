@@ -53,7 +53,7 @@
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-1.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-1_B.png">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
                                     <h2><span>Tratamiento</span><br>Aguas Residuales</h2>
@@ -141,7 +141,7 @@
                         <div class="row">
                             <div class="col col-md-5">
                                 <div class="img-holder about-image">
-                                    <img src="assets/images/about-s2.jpg" alt>
+                                    <img src="assets/images/about-s3.jpg" alt>
                                 </div>
                             </div>
                             <div class="col col-md-7">
@@ -252,7 +252,8 @@
                                     <li>Suministro de equipos e instrumentos de medición de parámetros</li>
                                     <li>Químicos y bacterias, con asesoría para su uso y dosificación</li>
                                     <li>Mantenimientos Electro – Mecánicos de Sistemas de Tratamiento de Aguas</li>
-                                </ul></div>    
+                                </ul></div><center>
+                                <img src="assets\images\features\logo-bd.png" width="20%"> </center>   
                 </div>
 
                 <div class="row well" style="margin-top:20px; ">

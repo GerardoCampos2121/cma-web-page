@@ -252,6 +252,7 @@
                                     <li>Suministro de equipos e instrumentos de medición de parámetros</li>
                                     <li>Químicos y bacterias, con asesoría para su uso y dosificación</li>
                                     <li>Mantenimientos Electro – Mecánicos de Sistemas de Tratamiento de Aguas</li>
+                                    <li>Contamos con productos Microbiología de la marca Biodyne para el tratamiento de Aguas Residuales y Trampas de Grasas</li>
                                 </ul></div><center>
                                 <img src="assets\images\features\logo-bd.png" width="20%"> </center>   
                 </div>

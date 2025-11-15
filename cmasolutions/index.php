@@ -72,7 +72,7 @@
 
                     <div class="swiper-slide">
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-2.jpg">
-                            <div id="consultoriaAmbiental" class="container">
+                            <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
                                     <h2><span>Servicios de </span>Consultoría Ambiental</h2>
                                 </div>
@@ -207,6 +207,7 @@
                         </div>                        
                     </div>
                 </div>
+                <div id="consultoria"></div>
                 <div class="row well" style="background-color:white;">
                     <div class="col-xs-12 col-md-4 center-block">
                         <div class="img-rounded" style="margin-top:10px;">
@@ -224,16 +225,18 @@
                                     <li> Ingreso de Informes de Operación Anual</li>
                                     <li> Programas de Manejo de Residuos y Almacenamiento de Sustancias Químicas</li>
                                     <li> Capacitaciones y Charlas en temáticas ambientales</li>
+                                    <div id="transporte"></div>
                                 </lu>
                                 </div>    
                 </div>
-
+                
                 <div class="row well">
                     <div class="col-xs-12 col-md-4 ">
                         <div class="img-rounded" style="margin-top:20px;">
                            <center> <img style="padding:50px 0 0 0" src="assets/images/features/02.png" width="85%"></center>
                         </div>
                     </div>
+                    
                     <div class="col-xs-12 col-md-8" style="padding:50px;font-size:18px"><h2>Transporte de Desechos</h2>
 
                                 <p style="text-align:justify">Contamos con autorización oficial del <u> Ministerio de Medio Ambiente </u> para el transporte seguro y responsable de desechos especiales, ofreciendo calidad en nuestros servicios:<br><br>
@@ -244,11 +247,11 @@
                         <li>   <u>Compromiso Ambiental:</u> Operamos bajo estrictos lineamientos para proteger el entorno.</li>
                         <li>   <u>Logística Integral:</u> Coordinamos cada detalle para que su empresa cumpla con la normativa sin complicaciones.</li>
                         </ul>                        
-                        
+                        <div id="aguasresiduales"></div>
                         </p>
                             </div>    
                 </div>
-
+                
                 <div class="row well" style="background-color:white;margin-top:20px; padding-bottom:20px">
                     <div class="col-xs-12 col-md-4">
                         <div class="img-rounded" style="margin-top:10px;">
@@ -275,7 +278,7 @@
                                 </ul></div><center>
                                 <img src="assets\images\features\logo-bd.png" width="20%"> </center>   
                 </div>
-
+                <div id="aguapotable"></div>
                 <div class="row well" style="margin-top:20px; ">
                     <div class="col-xs-12 col-md-4 center-block">
                         <div class="img-holder" style="margin-top:0px">
@@ -942,5 +945,6 @@
 
     <!-- Custom script for this template -->
     <script src="assets/js/script.js"></script>
+
 </body>
 </html>

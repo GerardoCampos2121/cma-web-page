@@ -260,7 +260,7 @@
                 <div class="row well" style="margin-top:20px; ">
                     <div class="col-xs-12 col-md-4 center-block">
                         <div class="img-holder" style="margin-top:0px">
-                            <img style="padding:40px 0 0 0;  margin-bottom:50px" src="assets/images/features/03.png" width="80%">
+                            <img style="padding:40px 0 0 0;  margin-bottom:50px" src="assets/images/features/03_2.png" width="80%">
                         </div>
                     </div>
                     <div class="col col-xs-8" style="font-size:18px; padding-top:70px"><h2>Tratamiento de Agua Potable</h2>

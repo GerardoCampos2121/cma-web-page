@@ -48,7 +48,7 @@
         
 <?php include_once("cabecera.php")?>
 
-        <!-- start of hero -->
+        <!-- start of hero-->
         <section class="hero-slider hero-style-2">
             <div class="swiper-container">
                 <div class="swiper-wrapper">
@@ -72,7 +72,7 @@
 
                     <div class="swiper-slide">
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-2.jpg">
-                            <div class="container">
+                            <div id="consultoriaAmbiental" class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
                                     <h2><span>Servicios de </span>Consultoría Ambiental</h2>
                                 </div>
@@ -90,7 +90,7 @@
 
                     <div class="swiper-slide">
                         <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-3.jpg">
-                            <div class="container">
+                            <div id="transporteDesechos" class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
                                     <h2><span>Transporte de</span> Desechos</h2>
                                 </div>
@@ -122,7 +122,26 @@
                                 </div>
                             </div>
                         </div> <!-- end slide-inner --> 
-                    </div><!-- end swiper-slide --> 
+                    </div><!-- end swiper-slide -->
+
+
+                    <div class="swiper-slide">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-5.png">
+                            <div class="container">
+                                <div data-swiper-parallax="300" class="slide-title">
+                                    <h2><span>Somos distribuidores</span> de la marca Biodyne en El Salvador</h2>
+                                </div>
+                                <div data-swiper-parallax="400" class="slide-text">
+                                    <p>Asesoría técnica, suministro de productos, estabilización de sistemas biológicos</p>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div data-swiper-parallax="500" class="slide-btns">
+                                    <!--a href="#" class="theme-btn">Our industry</a>
+                                    <a href="#" class="theme-btn-s2">Contact us</a-->
+                                </div>
+                            </div>
+                        </div> <!-- end slide-inner -->
+                    </div><!-- end swiper-slide -->
 
                 </div>
                 <!-- end swiper-wrapper -->

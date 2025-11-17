@@ -314,7 +314,7 @@
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                                 </div>
                             </div>
-                            <!--div class="grid">
+                            div class="grid">
                                 <div class="img-holder">
                                     <img src="assets/images/services/img-2.jpg" alt>
                                 </div>
@@ -373,6 +373,7 @@
 
 
         <!-- start contact-section -->
+        <div id="contactanos"></div>
         <section class="contact-section section-padding">
             <div class="container">
                 <div class="row">

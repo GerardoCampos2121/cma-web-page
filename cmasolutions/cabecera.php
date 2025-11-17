@@ -70,13 +70,9 @@
                                 <a href="#">Servicios</a>
                                 <ul class="sub-menu">
                                     <li><a href="#consultoria">Consultoria</a></li>
+                                    <li><a href="#transporte">Transporte Desechos</a></li>
                                     <li><a href="#aguasresiduales">Aguas Residuales</a></li>
                                     <li><a href="#aguapotable">Agua Potable</a></li>
-                                    <li><a href="#transporte">Transporte Desechos</a></li>
-                                    <!--li><a href="petroleum-refinery.html">Petroleum Refinery</a></li>
-                                    <li><a href="oil-gas-industry.html">Oil & Gas Industry</a></li>
-                                    <li><a href="logistics-services.html">Logistics Services</a></li>
-                                    <li><a href="general-insustry.html">General Insustry</a></li-->
                                 </ul>
                             </li>
                             <!--li class="menu-item-has-children">
@@ -103,7 +99,7 @@
                                     </li>
                                 </ul>
                             </li-->
-                            <li><a href="contact.php">Contacto</a></li>
+                            <li><a href="#contactanos">Contacto</a></li>
                         </ul>
                     </div><!-- end of nav-collapse -->
 

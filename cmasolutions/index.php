@@ -53,7 +53,7 @@
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-1_B.png">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-1.png">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
                                     <h2><span>Tratamiento</span><br>Aguas Residuales</h2>
@@ -71,7 +71,7 @@
                     </div> <!-- end swiper-slide -->
 
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-2.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-2.png">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
                                     <h2><span>Servicios de </span>Consultoría Ambiental</h2>
